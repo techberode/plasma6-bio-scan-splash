@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Id": "bio-scan-splash",
+        "Name": "Biometric Identity Scan (HUD)",
+        "Description": "Cyberpunk biometric handprint scanner splash screen for KDE Plasma 6 featuring a scrolling matrix console, randomized finger targets, and detailed live logs.",
+        "Authors": [ { "Name": "Max" } ],
+        "Version": "1.0",
+        "License": "GPL-3.0",
+        "Website": "https://github.com/YOUR_USERNAME/plasma6-bio-scan-splash",
+        "Category": "Splash Screen"
+    },
+    "X-Plasma-APIVersion": "2"
+}
