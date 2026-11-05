@@ -23,7 +23,7 @@ A highly detailed, realistic Cyberpunk / Sci-Fi biometric handprint scanner spla
 
 | Splash Screen Preview | Status Banner & Terminal |
 | :---: | :---: |
-| ![Full View](contents/splash/preview.png) | *Live terminal logs & randomized finger targets* |
+| ![Full View](contents/preview/splash.png) | *Live terminal logs & randomized finger targets* |
 
 ---
 
