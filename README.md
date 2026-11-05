@@ -43,3 +43,50 @@ Clone this repository and install using `kpackagetool6`:
 git clone https://github.com/YOUR_USERNAME/plasma6-bio-scan-splash.git
 cd plasma6-bio-scan-splash
 kpackagetool6 -t Plasma/LookAndFeel -i bio-scan-splash
+```
+
+---
+
+### Option C: Manual Copy
+Copy the bio-scan-splash folder directly into your local Plasma look-and-feel directory:
+
+```bash
+mkdir -p ~/.local/share/plasma/look-and-feel/
+cp -r bio-scan-splash ~/.local/share/plasma/look-and-feel/
+```
+
+---
+
+### 🧪 Testing
+To test the splash screen locally inside a window without rebooting:
+
+```bash
+ksplashqml ~/.local/share/plasma/look-and-feel/bio-scan-splash
+```
+
+### 📁 Repository Structure
+
+```text
+plasma6-bio-scan-splash/
+├── bio-scan-splash/
+│   ├── metadata.json
+│   └── contents/
+│       ├── splash/
+│       │   ├── Splash.qml
+│       │   ├── handprint.png
+│       │   └── preview.png
+│       └── previews/
+│           └── splash.png
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+### 📜 Credits & License
+
+Source Code (QML): Released under the GNU General Public License v3.0. Created by Max.
+Handprint Graphic Asset (handprint.png): Free for personal use. All credit for the handprint texture belongs to its original graphic creator.
+
+<p align="center">
+  <i>Developed for KDE Plasma 6.8+</i>
+</p>

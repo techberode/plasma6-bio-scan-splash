@@ -1,0 +1,19 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Plasma / KDE temporary files
+*.bak
+*~
+*.tar.gz
+*.zip
+
+# Screen recordings / temporary media
+*.webm
+*.mp4
+*.mkv
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
