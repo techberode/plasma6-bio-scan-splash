@@ -7,7 +7,7 @@
         "Authors": [ { "Name": "Max" } ],
         "Version": "1.0",
         "License": "GPL-3.0",
-        "Website": "https://github.com/techberode/plasma6-bio-scan-splash",
+        "Website": "https://github.com/YOUR_USERNAME/plasma6-bio-scan-splash",
         "Category": "Splash Screen"
     },
     "X-Plasma-APIVersion": "2"
