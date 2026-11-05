@@ -25,7 +25,6 @@ A highly detailed, realistic Cyberpunk / Sci-Fi biometric handprint scanner spla
 | :---: | :---: |
 | ![Full View](bio-scan-splash/contents/splash/preview.png) | *Live terminal logs & randomized finger targets* |
 
-![Full View](bio-scan-splash/contents/splash/preview.png)
 ---
 
 ## 🚀 Installation
