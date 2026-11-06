@@ -17,3 +17,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# pics
+logo.png

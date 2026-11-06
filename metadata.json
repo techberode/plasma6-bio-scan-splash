@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Id": "bio-scan-splash",
+        "Name": "Biometric Identity Scan (HUD)",
+        "Description": "Cyberpunk biometric scanner splash screen for KDE Plasma 6.",
+        "Authors": [
+            { "Name": "Max", "Email": "maxxim@techberode.com" },
+            { "Name": "AI Assistant (Claude/ChatGPT)", "Email": "" }
+        ],
+        "Version": "1.0",
+        "License": "GPL-3.0",
+        "Website": "https://github.com/techberode/plasma6-bio-scan-splash",
+        "Category": "Splash Screen"
+    },
+    "X-Plasma-APIVersion": "2"
+}

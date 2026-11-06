@@ -84,8 +84,16 @@ plasma6-bio-scan-splash/
 
 ### 📜 Credits & License
 
-Source Code (QML): Released under the GNU General Public License v3.0. Created by Max.
-Handprint Graphic Asset (handprint.png): Free for personal use. All credit for the handprint texture belongs to its original graphic creator.
+- Source Code (QML): Released under the GNU General Public License v3.0. Created by Max.
+- Handprint Graphic Asset (handprint.png): Free for personal use. All credit for the     handprint texture belongs to its original graphic creator.
+
+### 👥 Credits & Authors
+
+- **Main Concept & Testing:** Max (@techberode)
+- **Programming & QML Optimization:** Developed by Max with assistance from AI (Anthropic Claude).
+- **Graphics:** 
+  - `handprint.png`: Original artist (Free for personal use).
+  - UI Design: Inspired by Cyberpunk HUD aesthetics.
 
 <p align="center">
   <i>Developed for KDE Plasma 6.8+</i>
