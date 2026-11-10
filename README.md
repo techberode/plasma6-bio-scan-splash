@@ -95,6 +95,7 @@ plasma6-bio-scan-splash/
   - `handprint.png`: Original artist (Free for personal use).
   - UI Design: Inspired by Cyberpunk HUD aesthetics.
 
+  
 <p align="center">
   <i>Developed for KDE Plasma 6.8+</i>
 </p>
